@@ -1,0 +1,17 @@
+/*作成日：2024/07/24*/
+/*作成者：長田　一成*/
+
+table{
+  border-collapse: collapse;
+  font-size: 1.2rem;
+}
+
+th{
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+td{
+  padding: 10px;
+  border-bottom: 1px solid #f0f0f0;
+}

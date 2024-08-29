@@ -1,0 +1,19 @@
+/*作成日：2024/07/24*/
+/*作成者：長田　一成*/
+
+table{
+  font-size: 1.2rem;
+}
+
+tr:nth-child(odd){
+  background-color: #f0f0f0;
+}
+
+th{
+  padding: 10px;
+  text-align: left;
+}
+
+td{
+  padding: 10px;
+}
